@@ -164,7 +164,7 @@ echo "Hello from ${license.product_name}!";
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
               <Shield className="h-8 w-8 text-blue-600 mr-2" />
-              <span className="text-xl font-bold text-gray-900">My Licenses</span>
+              <span className="text-xl font-bold text-gray-900">Ingenio - My Licenses</span>
             </div>
             <div className="flex items-center space-x-4">
               <span className="text-sm text-gray-600">Welcome, {user?.email}</span>

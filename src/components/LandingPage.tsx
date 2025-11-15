@@ -23,7 +23,7 @@ function LandingPage() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
               <Shield className="h-8 w-8 text-blue-600 mr-2" />
-              <span className="text-xl font-bold text-gray-900">WP License Manager</span>
+              <span className="text-xl font-bold text-gray-900">Ingenio Plugin Marketplace</span>
             </div>
             <div className="flex items-center space-x-4">
               <Link
@@ -496,10 +496,10 @@ function LandingPage() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center mb-4 md:mb-0">
               <Shield className="h-8 w-8 text-blue-400 mr-2" />
-              <span className="text-xl font-bold">WP License Manager</span>
+              <span className="text-xl font-bold">Ingenio Plugin Marketplace</span>
             </div>
             <div className="text-gray-400">
-              <p>&copy; 2024 WP License Manager. All rights reserved.</p>
+              <p>&copy; 2024 Ingenio Plugin Marketplace. All rights reserved.</p>
             </div>
           </div>
         </div>

@@ -44,7 +44,7 @@ function Login() {
             <Shield className="h-12 w-12 text-white" />
           </div>
           <h2 className="text-2xl font-bold text-white text-center">
-            License Manager
+            Ingenio Plugin Marketplace
           </h2>
           <p className="text-blue-100 text-center mt-2">
             Sign in to your account
